@@ -13,5 +13,5 @@ function rec(i: number): number {
   }
 }
 
-const a = rec(100);
+let a = rec(10);
 console.log('ans', a);
